@@ -171,7 +171,7 @@ function App() {
             <div className="section6">
                 <div className="container">
                     <h2>Frequently Asked Questions</h2>
-                    <div className="row">
+                    <div className="row gap-5">
 
                         <div className="col-6">
                             <h3>

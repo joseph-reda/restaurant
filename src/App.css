@@ -178,22 +178,22 @@
 @media screen and (max-width: 700px) {
     .section4 .info {
         margin: auto !important;
+        padding-bottom: 0px !important;
+        margin-bottom: -20px !important;
     }
-    .section4 img{
+
+    .section3 .container .row img{
         display: none !important;
     }
-}
 
-
-@media screen and (max-width: 700px) {
     .section5 .infoData {
         margin-bottom: 30px !important;
     }
-}
-@media screen and (max-width: 700px) {
+
     .section6 .row {
         justify-content: center;
     }
 }
+
 
 
