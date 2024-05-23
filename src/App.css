@@ -195,5 +195,11 @@
     }
 }
 
+@media screen and (max-width: 450px) {
+    .section4 .info h2 {
+       font-size: 28px ;
+    }
+}
+
 
 
